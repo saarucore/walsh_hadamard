@@ -1,1 +1,2 @@
 # walsh_hadamard
+In quantum computing, the Walsh-Hadamard gate serves as a unitary transformation that generates superposition states from the basis states ∣0⟩ and ∣1⟩. This project delves into the core principles of Quantum Neural Networks (QNN), introduces a QNN model, and explores its mechanism and training algorithm. We demonstrate that quantum neuron can achieve the Walsh-Hadamard transformation, mirroring classical neural networks. 
